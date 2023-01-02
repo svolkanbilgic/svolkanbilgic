@@ -3,7 +3,7 @@
 - 🌱 I keep learning about CS
 - 📫 How to reach me instagram/twitter/facebook/linkedin/medium/github @svolkanbilgic 
 - 📫 Follow me medium.com/@svolkanbilgic
-- 📫 www.volkan.org.tr
+- 📫 https://volkan.org.tr/
 
 <!---
 svolkanbilgic/svolkanbilgic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
