@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @svolkanbilgic
-- 👀 I’m interested in Cyber Security n Information Security
-- 🌱 I keep learning about CS
+- 👀 I’m interested in Cyber Security Red Team Operations
 - 📫 How to reach me instagram/twitter/facebook/linkedin/medium/github @svolkanbilgic 
 - 📫 Follow me medium.com/@svolkanbilgic
 - 📫 https://volkan.org.tr/
